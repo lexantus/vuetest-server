@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-let app = require('../instrumentarium');
+let app = require('../app');
 
 let https = require('https');
 let http = require('http');
